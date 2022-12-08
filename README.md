@@ -10,11 +10,12 @@
 
 This official repository contains the source code, prediction results, and evaluation toolbox of paper 'CamoFormer: Masked Separable Attention for Camouflaged Object Detection'. The technical report could be found at [arXiv](https://arxiv.org/abs/). 
 The whole benchmark results can be found at [One Drive](https://mailnankaieducn-my.sharepoint.com/:f:/g/personal/bowenyin_mail_nankai_edu_cn/EmB36EZb_fdMvWGgKx2EalgBuQnj8AFifyR-ip7Jtkfwqg?e=nu6DJz), [Baidu Netdisk](https://pan.baidu.com/s/1k5CxYzcgizzJ4sRdAxBNlA?pwd=srtf), or [Google Drive](https://drive.google.com/drive/folders/1gsCeYtS9cwsMpTHQzkx81n4jsRK4LYdf?usp=sharing).
+Code will be released soon.
 
 
 ## 1. :fire: NEWS :fire:
 
-- [2022/12/08] Releasing the code of CamoFormer (Pytorch) and border region metrics and whole COD benchmarking results (21 models).
+- [2022/12/08] Releasing the whole COD benchmarking results (21 models).
 - [2022/12/08] Creating repository.
 
 > We invite all to contribute in making it more acessible and useful. If you have any questions about our work, feel free to contact me via e-mail (bowenyin@mail.nankai.edu.cn & andrewhoux@gmail.com). And if you are using our code and evaluation toolbox for your research, please cite this paper ([BibTeX]()).
