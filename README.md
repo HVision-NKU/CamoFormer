@@ -38,7 +38,8 @@ By default, you can put datasets into the folder 'dataset'.
 
 By default, you can put datasets into the folder 'checkpoint'.
 
-[Baidu Netdisk](https://pan.baidu.com/s/1QyE_HkxCp9vWlhnJAx20dQ?pwd=f4bp)
+CamoFormer: [Baidu Netdisk](https://pan.baidu.com/s/1QyE_HkxCp9vWlhnJAx20dQ?pwd=f4bp)
+Backbone: [Baidu Netdisk](https://pan.baidu.com/s/1E10fb4_Gr08_6LV6AdyhSg?pwd=pgdk)
 
 **2. Train CamoFormer.**
 ```
