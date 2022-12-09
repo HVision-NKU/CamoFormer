@@ -1,5 +1,5 @@
 python main.py \
-    --ckpt 'checkpoint/CamoFormer56'\
+    --ckpt 'checkpoint/CamoFormer-trained'\
     --mode 'test'
 
 python evaltools/eval.py   \

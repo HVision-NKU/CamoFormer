@@ -114,7 +114,7 @@ def train(Dataset, parser):
                 path=_TESTDATASET_+'/'+path
                 t = Valid(dataset, path, epoch, 'CamoFormer','output/checkpoint/CamoFormer/CamoFormer/' )
                 t.save()
-            os.system('bash evaltools/valid_eval.sh '+'output/Prediction/CamoFormer-epoch'+str(epoch+1)+' '+_TESTDATASET_)
+            os.system('bash evaltools/valid_eval.sh '+'output/Prediction/CamoFormer-epoch'+str(epoch+1)+' '+_TESTDATASET_+' CamoFormer'+str(epoch+1))
             
 def test(dataset,parser):
     args   = parser.parse_args()
