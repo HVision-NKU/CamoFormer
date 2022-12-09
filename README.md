@@ -30,9 +30,13 @@ You could refer to [here](https://github.com/HVision-NKU/CamoFormer/blob/main/fi
 
 - **Datasets:** 
 
+By default, you can put datasets into the folder 'dataset'.
+
 [Baidu Netdisk](https://pan.baidu.com/s/1Tcvt0IJYdKSYAb_BD5QrTg?pwd=2gf4)
 
 - **Checkpoints:** 
+
+By default, you can put datasets into the folder 'checkpoint'.
 
 [Baidu Netdisk](https://pan.baidu.com/s/1QyE_HkxCp9vWlhnJAx20dQ?pwd=f4bp)
 
