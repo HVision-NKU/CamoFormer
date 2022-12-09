@@ -24,7 +24,7 @@ Code will be released soon.
 
 **0. Install**
 
-You could refer to [here]().
+You could refer to [here](https://github.com/HVision-NKU/CamoFormer/blob/main/figs/Install.md).
 
 **1. Download Datasets and Checkpoints.**
 
