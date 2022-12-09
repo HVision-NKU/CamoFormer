@@ -18,7 +18,7 @@ Code will be released soon.
 - [2022/12/08] Releasing the whole COD benchmarking results (21 models).
 - [2022/12/08] Creating repository.
 
-> We invite all to contribute in making it more acessible and useful. If you have any questions about our work, feel free to contact me via e-mail (bowenyin@mail.nankai.edu.cn & andrewhoux@gmail.com). And if you are using our code and evaluation toolbox for your research, please cite this paper ([BibTeX]()).
+> We invite all to contribute in making it more acessible and useful. If you have any questions about our work, feel free to contact me via e-mail (bowenyin@mail.nankai.edu.cn). And if you are using our code and evaluation toolbox for your research, please cite this paper ([BibTeX]()).
 
 ## 2. Get Start
 
