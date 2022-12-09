@@ -30,11 +30,16 @@ You could refer to [here](https://github.com/HVision-NKU/CamoFormer/blob/main/fi
 
 - **Datasets:** 
 
+By default, you can put datasets into the folder 'dataset'.
+
 [Baidu Netdisk](https://pan.baidu.com/s/1Tcvt0IJYdKSYAb_BD5QrTg?pwd=2gf4)
 
 - **Checkpoints:** 
 
-[Baidu Netdisk](https://pan.baidu.com/s/1QyE_HkxCp9vWlhnJAx20dQ?pwd=f4bp)
+By default, you can put datasets into the folder 'checkpoint'.
+
+CamoFormer: [Baidu Netdisk](https://pan.baidu.com/s/1QyE_HkxCp9vWlhnJAx20dQ?pwd=f4bp)
+Backbone: [Baidu Netdisk](https://pan.baidu.com/s/1E10fb4_Gr08_6LV6AdyhSg?pwd=pgdk)
 
 **2. Train CamoFormer.**
 ```
