@@ -33,13 +33,14 @@ You could refer to [here](https://github.com/HVision-NKU/CamoFormer/blob/main/fi
 By default, you can put datasets into the folder 'dataset'.
 
 [Baidu Netdisk](https://pan.baidu.com/s/1Tcvt0IJYdKSYAb_BD5QrTg?pwd=2gf4)
+[One Drive](https://mailnankaieducn-my.sharepoint.com/:f:/g/personal/bowenyin_mail_nankai_edu_cn/EuSpxg1R9l1OmSkOqlUpMCcBvOE-JgtaeJVZfwwKOEjJhQ?e=sCWZE9)
 
 - **Checkpoints:** 
 
 By default, you can put datasets into the folder 'checkpoint'.
 
-CamoFormer: [Baidu Netdisk](https://pan.baidu.com/s/1QyE_HkxCp9vWlhnJAx20dQ?pwd=f4bp)
-Backbone: [Baidu Netdisk](https://pan.baidu.com/s/1E10fb4_Gr08_6LV6AdyhSg?pwd=pgdk)
+CamoFormer: [Baidu Netdisk](https://pan.baidu.com/s/1QyE_HkxCp9vWlhnJAx20dQ?pwd=f4bp) [One Drive](https://mailnankaieducn-my.sharepoint.com/:f:/g/personal/bowenyin_mail_nankai_edu_cn/Eg2fWTz1pjFBiJfAdj1XqGQBbQ2pOjpNq0AbIjseadTgSA?e=BFvBkU)
+Backbone: [Baidu Netdisk](https://pan.baidu.com/s/1E10fb4_Gr08_6LV6AdyhSg?pwd=pgdk)  [One Drive](https://mailnankaieducn-my.sharepoint.com/:f:/g/personal/bowenyin_mail_nankai_edu_cn/Et3EzPUD2GJOn1YafL1NDDYBXwWtdsLd3EZCVua-mVSdhw?e=7XoXoR)
 
 **2. Train CamoFormer.**
 ```
