@@ -107,7 +107,7 @@ def train(Dataset, parser):
                     %(datetime.datetime.now(),  global_step, epoch+1, cfg.epoch, optimizer.param_groups[0]['lr'], loss.item(),loss1.item(),loss2.item(),loss3.item(),loss4.item(),loss5.item()))
 
 
-        if epoch %5 == 0:
+        if epoch % 5 == 0 or epoch > 55:
             torch.save(net.state_dict(), cfg.savepath+'/'+_MODEL_+str(epoch+1))
             # 'CHAMELEON','COD10K','NC4K','CAMO'
             for path in ['COD10K']: 

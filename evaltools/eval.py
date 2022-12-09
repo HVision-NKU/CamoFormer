@@ -82,11 +82,6 @@ def eval(parser, dataset):
     em = EM.get_results()['em']
     mae = MAE.get_results()['mae']
     fnr = FM.get_results()[1]
-    if args.BR == 'on':
-        BRmae= BR_MAE.get_results()['mae']
-        BRmae_r = str(BRmae.round(3))
-        BRwF = BR_wF.get_results()['wfm']
-        BRwF_r = str(BRwF.round(3))
     model_r = str(args.model)
     Smeasure_r = str(sm.round(3))
     Wmeasure_r = str(wfm.round(3))
@@ -100,6 +95,10 @@ def eval(parser, dataset):
     fnr_r = str(fnr.round(3))
 
     if args.BR == 'on':
+        BRmae= BR_MAE.get_results()['mae']
+        BRmae_r = str(BRmae.round(3))
+        BRwF = BR_wF.get_results()['wfm']
+        BRwF_r = str(BRwF.round(3))
         eval_record = str(        
             'Model:'+ model_r + ','+
             'Dataset:'+ dataset + '||'+

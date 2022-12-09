@@ -8,5 +8,4 @@ python main.py \
     --momen 0.9 \
     --batchsize 8 \
     --savepath 'output/checkpoint/CamoFormer/CamoFormer/' \
-    --valid True
 
