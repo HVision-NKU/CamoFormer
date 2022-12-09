@@ -13,7 +13,6 @@ import torch.nn.functional as F
 import numpy as np
 import cv2
 
-
 def weight_init_backbone(module):
     for n, m in module.named_children():
         if isinstance(m, nn.Conv2d):
