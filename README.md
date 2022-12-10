@@ -88,6 +88,10 @@ Transformer-based models. ‘↑’: the higher the better, ‘↓’: the lower
 
 </p>
 
+### License
+
+Code in this repo is for non-commercial use only.
+
 
 
 
