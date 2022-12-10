@@ -88,6 +88,17 @@ Transformer-based models. ‘↑’: the higher the better, ‘↓’: the lower
 
 </p>
 
+### Reference
+You may want to cite:
+```
+@article{yin2022camoformer,
+  title={CamoFormer: Masked Separable Attention for Camouflaged Object Detection},
+  author={Bowen Yin and Xuying Zhang and Qibin Hou and Bo-Yuan Sun and Deng-Ping Fan and Luc Van Gool},
+  journal={arXiv preprint arXiv:2212.4643443},
+  year={2022}
+}
+```
+
 ### License
 
 Code in this repo is for non-commercial use only.
