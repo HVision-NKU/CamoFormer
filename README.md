@@ -110,10 +110,14 @@ Transformer-based models. ‘↑’: the higher the better, ‘↓’: the lower
 
 </p>
 
-### Acknowlegement
+
+
+## Acknowlegement
 Thanks [mczhuge](https://github.com/mczhuge) provide a friendly [codebase](https://github.com/mczhuge/ICON) for binary segmentation tasks. And our code is built based on it. 
 
-### Reference
+
+
+## Reference
 You may want to cite:
 ```
 @article{yin2022camoformer,
