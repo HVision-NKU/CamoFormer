@@ -51,9 +51,6 @@ Please also install [apex](https://github.com/NVIDIA/apex).
 git clone https://github.com/NVIDIA/apex
 cd apex
 pip install -v --no-cache-dir --global-option="--cpp_ext" --global-option="--cuda_ext" ./
-or
-Apex also support Python-only build (required with Pytorch 0.4):
-pip install -v --no-cache-dir ./
 ```
 
 
