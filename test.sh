@@ -1,3 +1,3 @@
-python main.py \
+python test.py \
     --ckpt 'checkpoint/CamoFormer-trained'
 
