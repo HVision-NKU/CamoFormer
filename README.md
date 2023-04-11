@@ -5,8 +5,8 @@
 > [Xuying Zhang](),
 > [Qibin Hou](),
 > [Bo-Yuan Sun](),
-> [Deng-Ping Fan](https://dengpingfan.github.io/), &
-> [Luc Van Gool](https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html).
+> [Deng-Ping Fan](), &
+> [Luc Van Gool]().
 
 
 This official repository contains the source code, prediction results, and evaluation toolbox of paper 'CamoFormer: Masked Separable Attention for Camouflaged Object Detection'. The technical report could be found at [arXiv](https://arxiv.org/abs/2212.06570). 
