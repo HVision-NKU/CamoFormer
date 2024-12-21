@@ -119,11 +119,12 @@ Thanks [mczhuge](https://github.com/mczhuge) providing a friendly [codebase](htt
 ## Reference
 You may want to cite:
 ```
-@article{yin2022camoformer,
-  title={CamoFormer: Masked Separable Attention for Camouflaged Object Detection},
-  author={Bowen Yin and Xuying Zhang and Qibin Hou and Bo-Yuan Sun and Deng-Ping Fan and Luc Van Gool},
-  journal={arXiv preprint arXiv:2212.06570},
-  year={2022}
+@article{yin2024camoformer,
+  title={Camoformer: Masked separable attention for camouflaged object detection},
+  author={Yin, Bowen and Zhang, Xuying and Fan, Deng-Ping and Jiao, Shaohui and Cheng, Ming-Ming and Van Gool, Luc and Hou, Qibin},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2024},
+  publisher={IEEE}
 }
 ```
 
