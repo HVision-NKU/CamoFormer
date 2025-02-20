@@ -1,16 +1,13 @@
 # <p align=center>`CamoFormer: Masked Separable Attention for Camouflaged Object Detection`</p>
 
-> **Authors:**
-> [Bowen Yin](http://yinbowen-chn.github.io/),
-> [Xuying Zhang](),
-> [Qibin Hou](),
-> [Bo-Yuan Sun](),
-> [Deng-Ping Fan](), &
-> [Luc Van Gool]().
+
 
 
 This official repository contains the source code, prediction results, and evaluation toolbox of paper 'CamoFormer: Masked Separable Attention for Camouflaged Object Detection'. The technical report could be found at [arXiv](https://arxiv.org/abs/2212.06570). 
 The whole benchmark results can be found at [One Drive](https://mailnankaieducn-my.sharepoint.com/:f:/g/personal/bowenyin_mail_nankai_edu_cn/EmB36EZb_fdMvWGgKx2EalgBuQnj8AFifyR-ip7Jtkfwqg?e=nu6DJz), [Baidu Netdisk](https://pan.baidu.com/s/1k5CxYzcgizzJ4sRdAxBNlA?pwd=srtf), or [Google Drive](https://drive.google.com/drive/folders/1gsCeYtS9cwsMpTHQzkx81n4jsRK4LYdf?usp=sharing).
+
+[Jittor version](https://github.com/yinbow/CamoFormer-Jittor) of this repositor is avaiable. Thanks to [2112529](https://github.com/2112529) for his contributions in implementing the Jittor version of the code.
+
 
 
 
